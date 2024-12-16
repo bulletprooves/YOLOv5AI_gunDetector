@@ -1,0 +1,13 @@
+train: C:\Users\YooHoGeun\Desktop\yolov5sibal2\GUNS-YOLOV5.v2-weapon-yolo-v5.yolov5pytorch\train\images
+val: C:\Users\YooHoGeun\Desktop\yolov5sibal2\GUNS-YOLOV5.v2-weapon-yolo-v5.yolov5pytorch\valid\images
+test: C:\Users\YooHoGeun\Desktop\yolov5sibal2\GUNS-YOLOV5.v2-weapon-yolo-v5.yolov5pytorch\test\images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: imane-rahil
+  project: guns-yolov5-jvkmi
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/imane-rahil/guns-yolov5-jvkmi/dataset/2
